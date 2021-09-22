@@ -1,0 +1,10 @@
+create pyton venv ant activate
+
+python -m venv venv
+\HumansExercise\venv> Scripts\activate
+# install CV2
+pip install mediapipe
+pip install opencv-python
+
+
+
