@@ -4,6 +4,7 @@ import mediapipe as mp
 import numpy as np
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
+mp_drawing_styles = mp.solutions.drawing_styles
 
 # # VIDEO FEED
 # cap = cv2.VideoCapture(0)
